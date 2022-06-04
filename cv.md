@@ -27,5 +27,5 @@
   **National University of Science and Technology MISiS**
 
  ### Languages 
- **Rusiian** - native  
+ **Russian** - native  
  **English** - A2  
