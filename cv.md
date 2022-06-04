@@ -1,21 +1,21 @@
- #Lomanov Aleksandr#  
+ # Lomanov Aleksandr#  
  
- ###Contacts  
+ ### Contacts  
  **Address:** Moscow, Russia  
  **Git:** [laleks6](https://github.com/laleks6)  
  **Discord:** [laleks](http://discordapp.com/users/#0503)   
  **Telegram:** @laleks6  
 
- ###About me  
+ ### About me  
  This is my second attempt to pass stage 0 :)  
 
- ###Skills  
+ ### Skills  
  **Basic level:**
  * **Html**
  * **CSS**
  * **Javascript**
 
- ###Code example  
+ ### Code example  
  ```
  function removeChar(str) {
     let result = str.slice(1, -1);
@@ -23,9 +23,9 @@
 }
  ```
 
- ###Education   
+ ### Education   
   **National University of Science and Technology MISiS**  
 
- ###Languages   
+ ### Languages   
  **Russian** - native  
  **English** - A2  
