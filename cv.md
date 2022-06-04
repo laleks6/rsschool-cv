@@ -1,10 +1,10 @@
  # Lomanov Aleksandr
  
  ### Contacts
- **Address:** Moscow, Russia
- **Git:** [laleks6](https://github.com/laleks6)
- **Discord:** [laleks](http://discordapp.com/users/#0503) 
- **Telegram:** @laleks6
+ **Address:** Moscow, Russia  
+ **Git:** [laleks6](https://github.com/laleks6)  
+ **Discord:** [laleks](http://discordapp.com/users/#0503)   
+ **Telegram:** @laleks6  
 
  ### About me
  This is my second attempt to pass stage 0 :)
@@ -27,5 +27,5 @@
   **National University of Science and Technology MISiS**
 
  ### Languages 
- **Rusiian** - native
- **English** - A2
+ **Rusiian** - native  
+ **English** - A2  
