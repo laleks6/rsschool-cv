@@ -17,9 +17,11 @@ P.P.S Is this some kind of joke???
 
 **Basic level:**
 * Html
-* CSS
+* CSS / Sass
 * Javascript
 * TypeScript
+* Webpack
+* Git
 * Figma
 
 ## Code example
