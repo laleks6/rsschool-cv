@@ -19,6 +19,7 @@ P.P.S Is this some kind of joke???
 * Html
 * CSS
 * Javascript
+* TypeScript
 * Figma
 
 ## Code example
